@@ -57,7 +57,8 @@ p{
     height: 450px;
     position: absolute;
     bottom: 0px;
-    left: 350px;
+    left: 50%;
+    transform:translate(-50%,0%);
 }
     
 
